@@ -4,8 +4,11 @@ A comprehensive data analysis and visualization project on banking customer data
 
 # Project Structure
 BankEDA.ipynb: Exploratory Data Analysis in Python.
+
 Banking Dashboard.pbix: Interactive Power BI Dashboard.
+
 Banking.csv: (Assumed) raw dataset used in the analysis.
+
 Problem Statement
 The goal is to analyze customer financial behavior, product holdings, and account correlations in order to:
 
