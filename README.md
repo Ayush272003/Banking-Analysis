@@ -2,7 +2,7 @@
 Banking Data Analysis
 A comprehensive data analysis and visualization project on banking customer data using Python (EDA) and Power BI (Dashboard) to uncover customer patterns, account relationships, and business insights.
 
-Project Structure
+# Project Structure
 BankEDA.ipynb: Exploratory Data Analysis in Python.
 Banking Dashboard.pbix: Interactive Power BI Dashboard.
 Banking.csv: (Assumed) raw dataset used in the analysis.
